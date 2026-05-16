@@ -1,0 +1,274 @@
+[
+  {
+    "i": 0,
+    "tag": "BUTTON",
+    "text": "Menu",
+    "href": "",
+    "type": "submit",
+    "cls": "menu-toggle"
+  },
+  {
+    "i": 1,
+    "tag": "A",
+    "text": "Overview",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#overview",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 2,
+    "tag": "A",
+    "text": "Characters",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#case-study",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 3,
+    "tag": "A",
+    "text": "Audience",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#timeline",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 4,
+    "tag": "A",
+    "text": "Narrative Process",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#process",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 5,
+    "tag": "A",
+    "text": "AI Use",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#ai",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 6,
+    "tag": "A",
+    "text": "Testing",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#archive",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 7,
+    "tag": "A",
+    "text": "Reflection",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#reflection",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 8,
+    "tag": "A",
+    "text": "Sources",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#sources",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 9,
+    "tag": "A",
+    "text": "View Process",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#process",
+    "type": "",
+    "cls": "btn btn-primary"
+  },
+  {
+    "i": 10,
+    "tag": "A",
+    "text": "Read Reflection",
+    "href": "https://resplendent-alfajores-f77fc7.netlify.app/#reflection",
+    "type": "",
+    "cls": "btn btn-secondary"
+  },
+  {
+    "i": 11,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus scene used for the final concept",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 12,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus investigation scene for the story premise",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 13,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus system control room and hidden setting",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 14,
+    "tag": "IMG",
+    "text": "Open larger preview: Student noticing a hidden campus trace",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 15,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus population moving through the hidden system",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 16,
+    "tag": "IMG",
+    "text": "Open larger preview: Hidden system interface projected in a campus hallway",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 17,
+    "tag": "IMG",
+    "text": "Open larger preview: Julian Mercer working with campus system plans",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 18,
+    "tag": "IMG",
+    "text": "Open larger preview: Students moving through the campus environment",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 19,
+    "tag": "IMG",
+    "text": "Open larger preview: Early cave reference sketch connected to the allegory",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 20,
+    "tag": "IMG",
+    "text": "Open larger preview: Early dark system room concept",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 21,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus map with system routes and subgrid markings",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 22,
+    "tag": "IMG",
+    "text": "Open larger preview: Julian Mercer and campus system planning materials",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 23,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus Discovery Week poster concept with QR code",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 24,
+    "tag": "IMG",
+    "text": "Open larger preview: Archive board showing subject cards and system evidence",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 25,
+    "tag": "IMG",
+    "text": "Open larger preview: Student looking toward a hidden interface in the hallway",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 26,
+    "tag": "IMG",
+    "text": "Open larger preview: Campus Discovery Week mobile event page",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 27,
+    "tag": "IMG",
+    "text": "Open larger preview: Deviation Log Updated game interface",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 28,
+    "tag": "IMG",
+    "text": "Open video preview: Platform 3 immersive game scene with terminal",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 29,
+    "tag": "IMG",
+    "text": "Open larger preview: Process screenshot of the campus model interface",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 30,
+    "tag": "IMG",
+    "text": "Open larger preview: Process screenshot of the computer interaction",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 31,
+    "tag": "IMG",
+    "text": "Open larger preview: Process poster version with QR code",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 32,
+    "tag": "IMG",
+    "text": "Open larger preview: Reflection image about self-recognition",
+    "href": "",
+    "type": "",
+    "cls": ""
+  },
+  {
+    "i": 33,
+    "tag": "BUTTON",
+    "text": "Close",
+    "href": "",
+    "type": "button",
+    "cls": "lightbox-close"
+  }
+]

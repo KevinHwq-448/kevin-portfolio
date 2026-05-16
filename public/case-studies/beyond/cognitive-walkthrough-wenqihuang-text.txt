@@ -1,0 +1,618 @@
+
+
+--- PAGE 1 ---
+ Cognitive Walkthrough
+Cognitive Walkthrough
+ Cognitive Walkthrough
+Wenqi Huang
+lnteractive Narrative Winter 2026
+
+
+--- PAGE 2 ---
+ Final Concept
+Final Concept
+ Final Concept
+Beyond the Shadows is a three-platform interactive narrative
+inspired by Plato’s Allegory of the Cave. The project reimagines the
+cave as a familiar college campus controlled by a hidden system,
+exploring how people, like in the original allegory, accept a limited
+version of reality as normal. Beginning with an ordinary public clue,
+the experience unfolds through hidden records, system traces, and
+gradual discovery, ultimately focusing on awakening to the truth
+behind an apparently normal environment.
+mian
+mian
+mian
+mian
+
+
+--- PAGE 3 ---
+ Final Concept
+Final Concept
+ Final Concept
+Beyond the Shadows is a three-platform interactive narrative
+inspired by Plato’s Allegory of the Cave. The project reimagines the
+cave as a familiar college campus, where everyday life appears safe,
+open, and ordinary on the surface. Beneath this normal environment,
+however, a hidden system quietly shapes movement, information,
+and perception, creating a controlled reality that most people accept
+without question.
+story premise
+story premise
+story premise
+story premise
+Rather than operating through obvious force, the system maintains
+power through routine, comfort, and predictability. Because the
+campus feels stable and familiar, students rarely stop to question
+the deeper structure that surrounds them. In this way, the project
+reflects the allegory’s central idea: people often accept a limited
+and constructed reality as truth when it is all they have learned to
+see.
+
+
+--- PAGE 4 ---
+ Final Concept
+Final Concept
+ Final Concept
+The participant takes the role of a student who begins to notice
+small anomalies within the campus environment. While others ignore
+these strange signs and continue with daily life, the participant
+chooses to investigate. This decision turns an ordinary campus
+experience into the beginning of a deeper narrative journey shaped by
+doubt, curiosity, and discovery.
+story premise
+story premise
+story premise
+story premise
+Across the project’s three platforms, the participant moves through
+increasing levels of awareness: first through a physical public clue,
+then through a digital archive and discovery space, and finally into an
+immersive reveal. As they follow traces, hidden records, and system
+messages, they gradually realize that the campus is not simply
+hiding information, but actively constructing the reality people live
+within.
+
+
+--- PAGE 5 ---
+ Final Concept
+Final Concept
+ Final Concept
+At first, the participant believes they are uncovering a truth that
+others have failed to notice. However, the investigation eventually
+reveals that the system’s existence is not entirely secret. Many
+people already sense it, but choose not to challenge it because the
+stability it provides feels safer than uncertainty. This transforms the
+story from a mystery about hidden knowledge into a reflection on
+why people accept controlled realities as normal.
+story premise
+story premise
+story premise
+story premise
+In the final stage, the participant discovers that they are not outside
+the system looking in, but may already be part of its archive. The path
+they followed may never have been entirely their own. This final shift
+echoes Plato’s Allegory of the Cave, ending the narrative not with
+escape, but with awakening: the disturbing realization that what
+seemed normal may have always been shaped by an unseen structure
+of control.
+
+
+--- PAGE 6 ---
+ Final Concept
+Final Concept
+ Final Concept
+In the hidden setting of Beyond the Shadows, this system was first established in
+1998 by Julian Mercer. He was a key figure in campus space planning and
+information system integration, believing that a "truly ideal campus" should not be
+built on freedom and chance, but on predictable order, manageable behavior, and
+optimized collective stability. Initially, the system was merely an auxiliary campus
+experiment, used to analyze pedestrian flow, adjust space utilization efficiency,
+optimize notification delivery and student behavior patterns, hoping to reduce
+conflict, chaos, and unnecessary risks. However, as the system learned, its
+function gradually shifted from "assisting in management" to "shaping reality"—it
+no longer merely observed the campus, but began to decide what should be seen,
+what should be ignored, what behaviors would be naturally encouraged, and what
+ideas would be subtly suppressed in the environment.
+Hidden settings
+Hidden settings
+Hidden settings
+Hidden settings
+Its control over students is not direct, brutal, or overt, but rather an
+extremely quiet, institutionalized, and environmental influence. Through
+campus route design, information distribution, spatial atmosphere, prompts,
+visual symbols, and ubiquitous interface logic, the system gradually trains
+students to form certain "default behaviors." Some areas always seem
+brighter, safer, and more worthwhile to linger in; some paths are always
+easier to choose; some information is always easier to receive, while others
+simply disappear into the noise. Over time, students believe they are making
+free choices, when in reality they are merely following pre-prepared tracks.
+Its most terrifying aspect is not the commands themselves, but that it
+makes obedience appear as a comfortable, normal, even rational way of life.
+
+
+--- PAGE 7 ---
+ Final Concept
+Final Concept
+ Final Concept
+As time passed, this system became deeply embedded in the campus culture. Upperclassmen, staff,
+and even some who had initially sensed something amiss gradually learned to coexist with it. They
+might not know the whole truth, but they knew that "not delving too deeply" would make life easier.
+Thus, a silent understanding formed on campus: the secret wasn't unknown, but rather that no one was
+willing to openly admit it. Like the prisoner in Plato's Allegory of the Cave who mistook the projection for
+reality, the people here had long accepted the system-filtered reality as the world truly was.
+Julian Mercer "disappeared" shortly after the system's initial deployment. Official records state that he
+simply withdrew from the project and left the campus, leaving no further explanation. However, deeper
+archives reveal contradictory traces: some records indicate he attempted to terminate the system,
+while others suggest he ultimately permanently sealed his permissions, thought patterns, and even a
+certain "judgment logic" into the system's core. Because of this, later generations have never been able
+to determine whether this system was merely Mercer's legacy, or whether it had evolved over time into
+an independent will no longer needing its founder.
+Hidden settings
+Hidden settings
+Hidden settings
+Hidden settings
+The truly unsettling aspect of the story isn't the students' violent control, but rather the
+subtle calibration of their sense of reality. The system never needs to force everyone to
+obey; it only needs to continuously shape the environment, making the majority believe
+that order is more important than truth, stability is safer than doubt, and silence is easier
+to survive than awakening. Thus, when the protagonist begins to investigate the truth, he
+faces not just a hidden system, but a reality structure already maintained, accepted, and
+lived within by everyone. In the end, he discovers that he is not the first to realize all this,
+nor is he an observer standing outside the system—he himself may have already been
+recorded, categorized, and written into a file by the system.
+
+
+--- PAGE 8 ---
+Characters Update
+Characters Update
+Characters Update
+— The Participant
+The Participant is the student who begins to notice small anomalies within the campus environment
+and chooses to investigate what others ignore. At first, these irregularities seem minor — a strange
+symbol, an unusual message, a subtle interface, or a pattern that feels slightly out of place. However,
+instead of dismissing them, the Participant becomes increasingly attentive to the hidden structure
+behind everyday campus life. Their role in the narrative is to move from curiosity to suspicion, and
+eventually from suspicion to awakening, as they begin to question the reality that has long been
+accepted as normal.
+The Participant & The Collective
+The Participant & The Collective
+The Participant & The Collective
+The Participant & The Collective
+— The Collective
+ In contrast, The Collective represents the wider campus population, who continue to live
+within the system without openly resisting it. They are not necessarily completely unaware
+of its presence; rather, they have adapted to its order, routines, and invisible logic over
+time. For them, the system has become part of the normal environment, something that
+shapes daily life so quietly that it no longer feels strange. The Collective therefore
+embodies acceptance, showing how people can learn to live inside a controlled reality and
+treat it as natural, stable, and even comforting.
+
+
+--- PAGE 9 ---
+Characters Update
+Characters Update
+Characters Update
+— The Hidden System
+ Beyond the human characters, the narrative is driven by The Hidden System, the invisible structure that
+shapes movement, information, and perception across the campus. It does not rely on open force or
+dramatic confrontation, but instead guides behavior through environment, repetition, spatial design,
+and institutional logic. It influences which routes feel safe, which spaces invite attention, and which
+forms of knowledge remain visible or hidden. In this way, the system does not simply monitor campus
+life — it actively organizes the reality people move through, encouraging obedience by making order feel
+natural and unquestionable.
+The Participant & The Collective
+The Participant & The Collective
+The Participant & The Collective
+The Participant & The Collective
+— Julian Mercer
+Julian Mercer, the founder, represents the origin of this controlled structure. He originally
+believed that a truly ideal campus should be built on predictability, managed behavior, and
+collective stability rather than freedom or uncertainty. What began as a rational experiment
+in campus planning and systems integration gradually evolved into something much more
+pervasive. Although Mercer later disappeared, his logic continues to shape the campus long
+after his absence, leaving behind an ambiguous legacy: it is never entirely clear whether the
+system is merely his creation, or whether his vision has become permanently embedded
+within it. Together, Mercer and the Hidden System embody the constructed reality at the
+center of the story.
+
+
+--- PAGE 10 ---
+Audience discovery and
+Audience discovery and
+integration
+integration
+Audience discovery and
+integration
+The primary audience for Beyond the Shadows is college students and
+young adults who are familiar with campus life and interested in mystery,
+puzzle-solving, exploration, and hidden narrative experiences. It also speaks
+to audiences who are drawn to speculative stories about institutional
+control, constructed realities, and utopian systems beneath ordinary
+environments. The project uses this familiarity as part of its design
+strategy, beginning with a public clue placed in an ordinary campus-like
+setting so that the experience feels believable and easy to enter. The
+audience is then guided through a digital discovery platform that rewards
+curiosity with hidden records, system traces, and deeper narrative context.
+By the final immersive reveal, the user is no longer just observing the story,
+but actively positioned inside it. In this way, the narrative is integrated
+with audience behavior by moving from recognition, to investigation, to
+personal implication.
+
+
+--- PAGE 11 ---
+Audience discovery and
+Audience discovery and
+integration
+integration
+Audience discovery and
+integration
+How can we make this story suitable for them to enter, understand, and
+continue exploring?
+To make this story suitable for its audience, the experience should be
+designed so that it feels easy to enter, clear to understand, and rewarding
+to continue. Since the main audience includes college students, mystery
+and puzzle enthusiasts, and people interested in speculative systems and
+controlled realities, the story works best when it begins in a setting that
+already feels familiar. Using a campus-like environment, a public clue, or a
+QR-based entry point helps lower the barrier to entry because the first
+interaction feels believable and natural rather than overly fictional or
+complicated. This makes the audience feel that they are discovering
+something hidden inside an ordinary world, which is more engaging than
+simply being told the premise from the start.
+To help the audience understand the story, the narrative should unfold
+gradually instead of delivering all of its ideas at once. Each platform should
+reveal a different layer of meaning: the first introduces the anomaly, the
+second expands the hidden system through records, traces, and evidence,
+and the third provides the final reveal. This step-by-step structure is
+important because the story is based on questioning reality, so the
+audience should experience that shift for themselves. Rather than reading a
+full explanation immediately, they begin by noticing something strange,
+then interpreting clues, and finally realizing that the system is much larger
+than it first appeared. This makes the concept easier to follow while also
+keeping the audience emotionally involved.
+
+
+--- PAGE 12 ---
+Audience discovery and
+Audience discovery and
+integration
+integration
+Audience discovery and
+integration
+To encourage continued exploration, every stage should give the audience a
+reason to move forward. The first stage should create curiosity, the second
+should deepen the mystery, and the final stage should create personal
+implication. In other words, the user should not feel like they are just
+collecting information, but that they are being drawn further into the
+system with every step. For puzzle-oriented users, this comes from
+uncovering hidden details and connecting fragments. For audiences
+interested in speculative or utopian control themes, it comes from gradually
+realizing that the campus is not simply hiding a secret, but quietly shaping
+reality itself. By moving from familiarity, to discovery, to implication, the
+story becomes something the audience can enter naturally, understand
+progressively, and feel motivated to keep exploring.
+
+
+--- PAGE 13 ---
+ Platform 1
+Platform 1
+ Platform 1
+On the surface, it looks like an ordinary campus event poster, featuring a
+seemingly reasonable, familiar, and unsuspecting campus exploration
+activity. However, its true function isn't to promote the event itself, but
+rather to naturally draw users into a hidden narrative through elements
+familiar to students, such as a campus map, public event language, and QR
+codes. In other words, it utilizes the most common forms of communication
+on campus, disguising the story within a believable everyday scenario,
+giving the audience a sense of "this seems real" before they further engage
+with the system.
+The strength of your poster lies in its avoidance of immediately revealing
+any "mysterious system" or "control" information. It uses a very normal tone,
+using phrases like "Campus Discovery Week," "student-led activities,"
+"walking routes," and "printed prompts"—all resembling promotional material
+for a real school event. The advantage of this approach is that users don't
+feel suddenly thrown into an abstract setting, but rather perceive it as a
+real-world entry point. The QR code here becomes the narrative trigger; once
+the user scans it, they transform from "someone looking at the poster" into
+"someone entering the story."
+
+
+--- PAGE 14 ---
+Platform 2
+Platform 2
+Platform 2
+Users first scan a QR code on a poster to enter a seemingly normal event
+page—Campus Discovery Week. This stage is crucial because it continues
+the "trusted entry point" of Platform 1, convincing the audience it's just a
+regular campus event. Then, the page is interrupted by FORCE OVERRIDE,
+and the previously normal information is overwritten by system traces. At
+this point, the narrative begins to shift; users realize for the first time that
+they haven't entered a simple event page, but rather an entry point
+occupied by a hidden system.
+The subsequent encrypted and shift-decrypted pages serve the function of
+"participatory discovery." Users are not passively reading the story but must
+actively adjust, observe, and decipher it, transforming them from observers
+into investigators. This is a perfect opportunity to emphasize in your
+presentation: this platform doesn't directly tell the audience the truth, but
+rather uses interaction to push the story from the surface to deeper system
+awareness. This perfectly aligns with the "from familiarity to skepticism"
+logic of your entire project.
+The subsequent terminal, log file, decrypted intel, and system alert pages
+actually constitute a complete digital narrative path. The terminal makes
+users feel like they're entering a restricted system layer; the log file makes
+the worldview more concrete, indicating that the system has permeated
+daily campus life; the red decrypted intel directly exposes the system's
+ideology, letting the audience understand that this is not ordinary
+surveillance, but a control structure operating in the name of "order,
+optimization, and stability"; the final system alert advances the story from
+"I'm watching a secret" to "the system is also responding to me," a crucial
+step because it personalizes the narrative.
+
+
+--- PAGE 15 ---
+ Platform 3
+Platform 3
+ Platform 3
+ Platform 3 functions as the AR narrative climax of Beyond the Shadows.
+While the earlier platforms invite the audience into the mystery and allow
+them to investigate the hidden system through clues and digital records,
+this platform is where the story becomes direct, spatial, and personal. It
+moves the audience from observing the system on the outside to
+experiencing it from within.
+Within the game, previously fragmented information is brought together
+through exploration, environment, archives, and restricted spaces. This
+gives the earlier clues a stronger narrative payoff, allowing the player to
+understand that the campus is not simply hiding a secret, but has long
+been shaped by a structure of observation, classification, and control. In
+this way, the platform transforms the story from a mystery about hidden
+knowledge into a realization about constructed reality.
+Most importantly, the game changes the player’s role. Instead of
+remaining a distant investigator, the player begins to feel personally
+implicated in the system itself. By the final stage, the hidden archive no
+longer appears to belong only to others — it begins to suggest that the
+player may already be part of it. As a result, Platform 3 ends the narrative
+not with clear resolution, but with awakening, reinforcing the project’s
+connection to Plato’s Allegory of the Cave.
+
+
+--- PAGE 16 ---
+ Platform 3
+Platform 3
+ Platform 3
+The screen changes as the game progresses.
+This is the initial Campus Order Model
+interface, displaying the basic connections
+between nodes within the campus. It
+represents the surface-level order structure
+the player sees upon entering the system,
+appearing rational, stable, and like a normal
+management model.
+This image shows Deviation Log Updated,
+indicating that the system has begun
+detecting deviations and anomalies. It
+demonstrates that as the player progresses,
+the system is no longer merely observed but
+begins to record and react to the player's
+actions.
+This image reveals the recovery process of
+the lower route/hidden route, showing that
+the player gradually finds the path obscured
+by the system. It symbolizes moving from the
+surface order to the hidden layer, and also
+advances the story from "observing the
+system" to "breaking through the system."
+This is the first scene showing the core
+device in the game; the space is very quiet,
+controlled, and almost ritualistic. It doesn't
+evoke a sense of danger, but rather a calm
+yet unnatural order. Allowing players to
+personally activate this initial computer
+creates a sense of immersion.
+This is the first scene showing the core
+device in the game; the space is very quiet,
+controlled, and almost ritualistic. It doesn't
+evoke a sense of danger, but rather a calm
+yet unnatural order. Allowing players to
+personally activate this initial computer
+creates a sense of immersion.
+This is the archival terminal interface,
+containing records such as route trace,
+camera buffer, and access override. It
+demonstrates that the system not only
+monitors the space but also preserves
+individual behavioral traces over the long
+term, transforming human actions into
+categorizable archival material.
+
+
+--- PAGE 17 ---
+ Platform 3
+Platform 3
+ Platform 3
+The sound design in Platform 3 is used to build a cold, mechanical, and enclosed atmosphere while also giving
+clear feedback to the player’s actions. Ambient audio, interface sounds, machine activation, and
+containment effects work together to make the hidden system feel controlled, procedural, and physically
+present.
+server_room_hum.mp3
+ A constant server-room ambience used throughout the environment to maintain a cold, mechanical, and
+enclosed spatial feeling.
+button_press.mp3
+ Used as feedback when the player presses the startup button, giving the interaction a clear physical
+confirmation.
+computer_boot.mp3
+ The boot-up sound for the main terminal or old computer, marking the transition from a dormant room state into
+system activation.
+light_flicker_01.mp3
+ A flickering electrical sound used with unstable startup and lighting changes to reinforce the feeling of
+system recovery.
+server_boot_01.mp3
+ A server or rack activation sound used when a key machine or target server powers on, signaling narrative and
+gameplay progression.
+mechanical_sliding_sound.mp3
+ A heavy sliding sound matched to the service door animation, making the opening and closing sequence feel
+more physical and industrial.
+mechanical_door_closing.mp3
+ A final mechanical locking sound used after the door fully closes during the containment sequence,
+emphasizing that the space has been formally sealed by the system.
+containment_venting.mp3
+ A controlled venting sound used when the white containment mist begins to release, making the effect feel
+system-driven rather than sudden or supernatural.
+Each sound was spatially placed in the environment, allowing the audio to shift dynamically based on the
+player’s position and movement.
+
+
+--- PAGE 18 ---
+Usabity testing
+Usabity testing
+Usabity testing
+To evaluate user experience, I conducted usability tests across three platforms,
+including A/B testing, interview/post-test questions, and task-based testing,
+focusing on clarity, navigation, and narrative progression. Users were asked to
+experience the poster entry point, the digital exploration phase, and the final game
+experience sequentially, observing where they hesitated, felt confused, and which
+parts were most engaging. The main issues were whether the entry point was clear
+enough, whether the digital cues were easy to understand, and whether the final
+game environment effectively conveyed the story.
+The tests showed that users responded well to the game's sense of mystery and
+atmosphere, but some users needed clearer guidance when transitioning from one
+stage to the next. Based on this feedback, I optimized the call to action on the
+entry platform, adjusted the pacing and readability of the digital exploration
+interface, and strengthened the visual and spatial cues in the game, making the
+final revelation more coherent and impactful.
+1. Entry poster / QR code
+Question:
+When you first saw the poster, did you understand what to do next?
+I understood that I was supposed to scan the QR code, because that part
+was clear. At first, I thought it was just a normal school event, which made it
+feel believable. But after scanning, I realized something felt strange, and that
+made me want to keep going.
+What this suggests:
+The entrance is clear, and the design of "normal first, then abnormal" is
+effective.
+2. Poster believability
+Question:
+Did the poster feel like something that could really appear on a campus?
+Yes, it looked believable because it used a campus map, event details, and a
+normal layout. It didn’t immediately look like fiction, which made the
+transition into the hidden story more interesting.
+What this suggests:
+The poster is believable enough and suitable for the entrance of the story.
+3. Digital discovery clarity
+Question:
+When the event page changed into the system interface, was it clear that the
+story was shifting?
+Yes, I could tell something was wrong when the page was overridden. That
+part was effective because it changed suddenly, but not so much that I got
+lost. It felt like I was entering a hidden layer rather than just opening another
+webpage.
+What this suggests:
+Platform 2’s turning point works, and users can feel the narrative shift.
+4. Puzzle/decoding
+Question:
+Was the encrypted message and decoding interaction understandable?
+Sample user response:
+I understood that I needed to decode something, but I needed a moment to
+figure out how the shift worked. Once I understood it, it was interesting
+because it made me feel involved instead of just reading information.
+What this suggests:
+The decryption mechanism is attractive, but could use a clearer hint.
+5. Game experience
+Question:
+In the final game platform, did you feel like you were exploring a hidden
+system rather than just looking at a scene?
+Yes, the environment made it feel like I was inside the system. The dark
+space, terminals, and archive-like elements made it feel more immersive. It
+felt less like reading a story and more like moving through it.
+What this suggests:
+Platform 3’s immersion is established.
+6.Final reveal
+Question:
+By the end of the experience, did you understand what the system was doing
+and why it mattered?
+Sample user response:
+I understood that the system wasn’t just hiding in the background, but
+shaping how people move and what they notice. The ending made me feel like
+the player might also be part of the archive, which made the story stronger.
+What this suggests:
+The theme at the end is basically understandable, and the point of "the
+players are in the system" is valid.
+
+
+--- PAGE 19 ---
+process work
+process work
+process work
+
+
+--- PAGE 20 ---
+Al as-a-tool Update
+Al as-a-tool Update
+Al as-a-tool Update
+AI was used in Project 3 as a support tool for refinement, iteration, and development across the final three platforms. It helped me
+clarify narrative details, refine the wording of story components, and strengthen how the experience moved from the public entry
+poster, to the digital discovery platform, and finally into the interactive game experience. AI was also useful for testing visual
+directions, generating supporting concept imagery, and exploring how archival materials, hidden system interfaces, and
+environmental storytelling could be represented more clearly and consistently.
+However, AI was not used to replace the design process. The final platform structure, visual direction, narrative logic, and overall
+pacing of the experience were shaped through my own decisions and project goals. Many AI-generated suggestions were too
+broad, too literal, or not fully aligned with the project’s tone of calm control, institutional order, and gradual awakening, so they
+needed to be carefully selected, edited, and adapted. In this way, AI functioned more as a brainstorming and iteration tool than as
+the author of the final work.
+The most important creative decisions remained human-led. The project’s interpretation of Plato’s Allegory of the Cave, the
+refinement of the three-platform experience, and the emotional progression from entry, to discovery, to final implication were all
+developed through my own design decisions. The sound design for the final game platform was also shaped separately through
+intentional audio placement, atmosphere building, and containment effects, helping the ending feel procedural, immersive, and
+narratively controlled. This balance ensured that AI supported productivity and experimentation while the final project still
+reflected my own creative direction.
+
+
+--- PAGE 21 ---
+Reflection
+Reflection
+Reflection
+During Project 3, the project began to feel much more complete and real to me because I was no longer only developing the
+concept — I had to make the narrative work across the final platforms in a clear and believable way. In the earlier stage,
+Beyond the Shadows was still mainly exciting as an idea, with its hidden campus system, allegorical meaning, and
+speculative atmosphere. But in Project 3, I started to see where the real challenges were. Once I began refining the poster
+entry, the digital discovery sequence, and the final interactive game experience, I realized that a strong concept alone was
+not enough. The project needed to guide the audience clearly from one stage to the next while still keeping the mystery
+and atmosphere intact.
+One of the biggest challenges for me was narrative clarity. At first, I was focused mainly on the world-building and the
+hidden system itself, but as I developed the final platforms, I realized that users would only stay engaged if the experience
+was easy to enter, understandable to follow, and rewarding to continue. This made me think much more carefully about
+transitions, pacing, and how each platform contributed a different layer of information. The poster could not just look
+interesting — it had to feel believable as a public entry point. The digital platform could not simply contain story material —
+it had to gradually shift the audience from curiosity into investigation. The final game also could not just be a visual space
+— it had to function as the emotional and narrative climax of the project.
+At the same time, I became much more aware of how atmosphere supports storytelling. I did not want the final platform to
+feel like only a technical environment or a collection of visual assets, so I spent more time refining environmental cues,
+archives, system interfaces, and sound design. In particular, the sound layer in the game helped me understand that
+immersion comes from many small details working together: ambient server noise, machine activation, mechanical door
+sounds, and containment effects all helped make the hidden system feel procedural, controlled, and physically present.
+This process made me think about the project less as separate media pieces and more as one connected narrative system,
+where visual design, interaction, and atmosphere all need to reinforce the same story.
+
+
+--- PAGE 22 ---
+Sources cited
+Sources cited
+Sources cited
+Jenkins, Henry. Convergence Culture: Where Old and New Media Collide. New York University Press, 2006.
+Milgram, Paul, and Fumio Kishino. “A Taxonomy of Mixed Reality Visual Displays.” IEICE Transactions on Information and Systems, vol.
+E77-D, no. 12, 1994, pp. 1321-1329.
+Moran, Kate. “Usability (User) Testing 101.” Nielsen Norman Group, 1 Dec. 2019, www.nngroup.com/articles/usability-testing-101/.
+Accessed 13 Apr. 2026.
+Murray, Janet H. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. Updated ed., MIT Press, 2017.
+Nielsen, Jakob. “10 Usability Heuristics for User Interface Design.” Nielsen Norman Group, 24 Apr. 1994, www.nngroup.com/articles/ten-
+usability-heuristics/. Accessed 13 Apr. 2026.
+Nielsen, Jakob. “Usability 101: Introduction to Usability.” Nielsen Norman Group, 3 Jan. 2012, www.nngroup.com/articles/usability-101-
+introduction-to-usability/. Accessed 13 Apr. 2026.
+Norman, Don. The Design of Everyday Things. Revised and expanded ed., Basic Books, 2013.
+Plato. Republic. Translated by G. M. A. Grube, revised by C. D. C. Reeve, 2nd ed., Hackett Publishing Company, 1992.
+Ryan, Marie-Laure. Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic Media. Johns Hopkins University
+Press, 2001.
+OpenAI. ChatGPT, 13 Apr. 2026, chat.openai.com. Accessed 13 Apr. 2026.
+
+
+--- PAGE 23 ---
+Thank U

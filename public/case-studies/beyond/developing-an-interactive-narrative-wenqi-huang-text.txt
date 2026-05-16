@@ -1,0 +1,407 @@
+
+
+--- PAGE 1 ---
+Developing an Interactive
+Developing an Interactive
+Narrative
+Narrative
+Developing an Interactive
+Narrative
+Wenqi Huang
+Beyond the Shadows
+
+
+--- PAGE 2 ---
+ Project Statement
+Project Statement
+ Project Statement
+This project is an interactive narrative inspired by The Allegory of the Cave, set in the
+everyday environment of the Sheridan Trafalgar campus. The story explores the
+difference between what people see on the surface and what may be hidden
+underneath. It asks participants to question the information, systems, and social
+patterns that shape how they understand campus life.
+At the beginning, participants experience a familiar and comfortable version of the
+campus, where everything seems normal — this represents the “shadow world.” As
+they move through different locations on campus and follow small clues, they start to
+notice that some information does not fully match reality. These clues appear through
+digital content, physical space, and layered narrative fragments.
+The project focuses on themes of perception, conformity, and awareness. Participants
+actively explore the story instead of simply reading it. Their choices influence how
+much they question what they see and how far they are willing to go to discover hidden
+truths. The experience encourages reflection and discovery, blending the boundary
+between everyday campus life and narrative experience.
+
+
+--- PAGE 3 ---
+“Beyond the Shadows” is an interactive narrative inspired by Plato’s
+Allegory of the Cave. The story focuses on how people understand reality and
+how awareness can change their perspective. The experience takes place in a
+familiar campus environment where everything first seems normal and stable.
+However, small inconsistencies and strange signals begin to appear, suggesting
+that what participants see may not be the full truth.
+As participants explore the campus and follow clues, they can take different
+paths. They may choose to stay comfortable and accept what they see, search
+for deeper meaning, or face a more complex and unsettling reality. In this project,
+awareness is not a single moment of discovery, but a gradual process that can
+change how participants see themselves, others, and their place within the
+campus environment.
+While the project explores philosophical themes, it is designed to remain
+engaging and experiential. Rather than presenting a fixed story, the narrative
+unfolds through discovery, small anomalies, and participant-driven choices.
+Moments of curiosity, uncertainty, and gradual realization create a sense of
+intrigue, encouraging participants to actively explore and interpret the
+experience.
+Narrative
+Narrative
+Concept
+Concept
+Narrative
+Concept
+
+
+--- PAGE 4 ---
+The Participant
+The participant takes the role of a student at the Sheridan Trafalgar campus. At first, they
+experience the campus as ordinary and predictable. However, they begin to notice small
+irregularities — familiar spaces feel slightly altered, messages appear incomplete, and
+information seems inconsistent. Driven by curiosity, the participant starts to question what
+they perceive and must decide whether to remain comfortable or pursue deeper
+understanding.
+Narrative function
+Represents curiosity, interpretation, and the journey from comfort toward awareness.
+Characters
+Characters
+Characters
+What does your character think about themselves?
+They see themselves as a normal student living an ordinary routine, but they often feel there
+is more beneath the surface of everyday life. They are curious and observant, even if they are
+not always confident in what they discover.
+What does your character think about their world?
+They believe the world usually makes sense, but sometimes feels strangely repetitive and
+controlled. As small inconsistencies appear, they begin to question whether what they see
+is fully real or only part of a larger system.
+What does your character think about others?
+They see others as people following their own routines, often unaware of what is happening
+around them. Sometimes they wonder if others notice the same strange details, or if they
+are the only one seeing beyond the surface.
+
+
+--- PAGE 5 ---
+The Collective (Shadow Community)
+The collective represents the majority of students who accept the surface reality. They
+reinforce normalcy and familiarity, often attributing anomalies to coincidence. Their
+presence creates social comfort but also brings a subtle pressure, compelling conformity and
+avoiding questioning.
+Sometimes, collective members repeat the same phrases, ignore contradictions, or react
+defensively when someone questions shared beliefs—suggesting that some subconscious
+influence may exist beneath the surface.
+Narrative Function
+Represents conformity, social stability, and resistance to change. Students are all doing
+their jobs.
+Characters
+Characters
+Characters
+What does this character think about themselves?
+They see themselves as normal students living ordinary campus lives. They believe they are
+doing the right thing by following routines and maintaining stability, even if they do not
+question deeper meanings.
+What does this character think about their world?
+They believe the world is stable, predictable, and mostly fair. Strange events are usually
+ignored or explained away, because questioning reality feels unnecessary or uncomfortable.
+What does this character think about others?
+They trust people who behave normally and follow shared routines. When someone questions
+reality too much, they may feel uneasy or resistant, preferring to maintain social balance
+and familiarity.
+
+
+--- PAGE 6 ---
+The Messenger (The One Who Saw)
+The Messenger appears only through fragments—handwritten notes, altered posters, voice
+recordings, or hidden digital traces. This figure has already "seen beyond the shadows" and
+attempts to guide the participant. "I'll place QR codes or other instructions at a location
+within the school, depending on the story's context, to guide the character."
+However, the Messenger never provides full answers. Their messages are incomplete,
+sometimes cryptic, and occasionally contradictory, forcing the participant to interpret
+meaning rather than blindly follow instructions.
+Narrative function: Represents awakening, uncertainty, and the possibility of seeing beyond
+surface reality.
+Characters
+Characters
+Characters
+
+
+--- PAGE 7 ---
+XD Exercises
+XD Exercises
+XD Exercises
+These references made me think about
+how reality is not always what it seems.
+They don’t tell the story directly, but let
+people discover meaning through space,
+interaction, and small details.
+For my project, I want the experience to
+feel familiar at first, but slowly become
+strange. Through subtle changes, hidden
+messages, and environmental clues,
+participants begin to question what they
+see. Instead of being told the story, they
+uncover it themselves.
+The goal is to create a layered experience
+where understanding develops gradually,
+moving from comfort to awareness.
+
+
+--- PAGE 8 ---
+The initial inspiration comes from Plato’s Allegory of the Cave. I am interested in how
+people can mistake perception for reality, and how awareness can change the way we
+understand familiar environments. This idea will be explored within the everyday setting of
+the Sheridan Trafalgar campus.
+At this stage, the narrative is still developing. Rather than defining a fixed storyline, the
+project focuses on a general direction: a familiar campus environment where small
+inconsistencies begin to appear over time. These subtle changes may suggest that what
+seems normal is not entirely complete or stable.
+The project will likely involve a participant gradually noticing irregularities across a few
+campus spaces, leading to a shift in perception. Instead of a fully defined plot, the current
+goal is to explore atmosphere, discovery, and how meaning can emerge through observation
+and interpretation.
+This early idea is also influenced by works such as Inside, The Matrix, and Superliminal,
+which use subtle storytelling and perception-based interaction rather than direct
+explanation. These references inform the tone and direction of the project as it continues to
+develop.
+Building Narrative with
+Building Narrative with
+Inspiration
+Inspiration
+Building Narrative with
+Inspiration
+
+
+--- PAGE 9 ---
+Brainstorm
+Brainstorm
+Brainstorm
+Visually
+I want the story to happen inside the school, using small changes in the
+environment. At first everything looks normal, like a regular day on campus.
+But slowly, small strange details appear, such as repeated signs, lights
+changing, or spaces feeling a bit different. These small changes make
+people start to feel something is not right.
+As the experience continues, the space feels more confusing and less
+stable. Things might repeat, look slightly wrong, or feel unfamiliar even
+though they are in the same place. The goal is to slowly create curiosity,
+not big dramatic changes.
+Textually
+The story will use short pieces of text instead of long explanations. People
+might see small notes, strange messages, or altered information around
+the space. These texts do not clearly explain what is happening, but
+suggest that there is something hidden.
+As more text appears, people start to understand the situation by
+themselves. The information might sometimes feel unclear or even
+conflicting, showing that perception is not always reliable.
+
+
+--- PAGE 10 ---
+Brainstorm
+Brainstorm
+Brainstorm
+Simple 3D elements or locations
+I will use simple and familiar school locations like hallways, classrooms, or
+common spaces. The environment stays mostly realistic, but small changes
+may happen, such as repeated paths or spaces feeling slightly off.
+Using simple spaces keeps the project manageable while still creating a
+feeling of uncertainty and discovery.
+Animation
+Animation will be small and subtle, like flickering lights, moving shadows, or
+looping movement. These small motions help create a strange atmosphere
+without being too obvious.
+The goal is not to make it dramatic, but to slowly change how the space
+feels over time.
+
+
+--- PAGE 11 ---
+Brainstorm
+Brainstorm
+Brainstorm
+Augmented or Virtual elements
+Some hidden digital elements may appear, such as secret messages or
+visual changes that only show under certain conditions. These elements
+suggest that there is another layer behind what people normally see.
+This helps support the theme of questioning reality and discovering hidden
+meaning.
+Could you focus on just one idea/plot/story element?
+Yes. The project focuses on one main idea — questioning what is real.
+Instead of building a complicated story, it shows a simple experience
+where people slowly realize that the environment may not be what it
+seems.
+Keeping it simple helps make the idea clearer and easier to develop.
+What is the minimum number of characters needed?
+The story can work with very few characters. The participant is the main
+perspective, and there may be one hidden guide or unknown presence
+giving small clues.
+Having fewer characters keeps the story mysterious and focused.
+Can you tell this story with smaller/fewer scenes/locations?
+Yes. The story can be told using only a few locations, like a hallway, a
+shared space, and one transition area. Each location represents a different
+stage of awareness.
+Using fewer locations makes the project easier to manage while still
+keeping the experience meaningful.
+
+
+--- PAGE 12 ---
+Short Story
+Short Story 
+Short Story 
+Story Structure — Beyond the Shadows
+Step 1 — Opening
+A student is walking on Sheridan campus during a normal day. Everything
+looks the same as usual — people studying, walking, talking. But the
+student starts noticing small strange details, like repeated signs or
+messages that feel slightly wrong.
+Nothing dramatic happens, but the space feels a little off. The story
+begins with curiosity.
+Step 2 — The Challenge
+The student becomes more aware of these strange details and wants to
+understand what is happening. They are not sure if it is real or just
+coincidence, but they feel pulled to keep noticing and exploring.
+The challenge is deciding whether to ignore the strange feeling or
+investigate further.
+Step 3 — Direction
+The student chooses to pay more attention. As they move through the
+campus, the environment feels less stable. Some things repeat, some
+information changes, and reality feels uncertain.
+The story moves toward questioning what is real.
+Step 4 — Conflict
+The student tries to make sense of what they see, but things
+don’t fully match. Others around them seem normal and
+unaware, which makes the student feel isolated and unsure.
+The more they notice, the harder it becomes to trust what is
+real.
+Step 5 — Resolution
+The student does not find a clear answer, but realizes that
+reality may not be fixed. Their understanding changes, even
+though the environment stays the same.
+The change happens inside the student, not outside.
+Step 6 — Closing / Interaction
+The student continues walking through campus, but now sees
+it differently. The story does not end with a solution, but with
+awareness.
+Participants experience this journey through observation,
+movement, and small discoveries.
+
+
+--- PAGE 13 ---
+Platforms
+Platforms
+Platforms
+The project uses both physical and digital platforms to create a puzzle-based exploratory
+narrative across the Sheridan Trafalgar campus.
+Physical Platform — Campus Space
+The physical campus acts as the main narrative environment. Participants move through
+familiar locations such as hallways, study areas, and shared spaces. These places appear
+normal at first, but subtle inconsistencies and hidden clues encourage participants to
+observe more carefully and question what they see.
+Physical exploration represents the surface reality — a familiar world that slowly feels
+less stable as participants progress.
+Digital Platform — Interactive Clues
+Digital elements provide hidden layers of the story. Participants may encounter coded
+messages, altered information, or small interactive puzzles through screens, phones, or
+projected media. These clues help reveal deeper meaning behind the physical environment.
+Digital interaction represents the search for truth — where participants begin connecting
+fragments and uncovering hidden patterns.
+
+
+--- PAGE 14 ---
+Project
+Project    Management
+Management    Plan
+Plan
+Project  Management  Plan
+Risk Assessment
+One possible risk is that the narrative becomes too complex or unclear, making it difficult
+for participants to understand the experience. To reduce this, the project focuses on a
+simple core idea and gradual progression rather than a complicated storyline.
+Another risk is technical limitation, such as time, tools, or scope becoming too large. To
+manage this, the project uses simple environments, minimal animation, and limited
+locations to keep development realistic and achievable.
+
+
+--- PAGE 15 ---
+Project
+Project    Management
+Management    Plan
+Plan
+Project  Management  Plan
+Skills Assessment
+At the start of this project, I noticed my main strengths are concept development and
+narrative thinking. I am good at generating ideas and shaping themes. When working with
+The Allegory of the Cave, I quickly connected it to perception and reality on campus,
+which helped form the core direction of the project. I also feel confident in visual and
+atmospheric thinking, especially when imagining how participants experience the
+narrative.
+However, I also recognized some weaknesses. Sometimes my ideas are too broad, and I
+needed time to simplify the concept and focus on what really matters. I am also less
+confident in structured planning and organization, and turning ideas into clear, step-by-
+step execution was challenging at first.
+During the project, I improved by refining my ideas, reducing complexity, and focusing on
+clarity. This process helped me better understand how to balance creativity with
+structure, and I hope to continue improving my planning and execution skills in future
+projects.
+Strengths
+Good at generating ideas and building concepts
+Strong in narrative and theme thinking
+Good visual imagination and atmosphere thinking
+Able to refine and improve ideas
+Weaknesses
+Ideas can become too broad at first
+Need better planning and organization
+Sometimes unsure how to turn ideas into clear steps
+Can overthink before making decisions
+
+
+--- PAGE 16 ---
+AI Usage Reflection
+AI Usage Reflection
+AI Usage Reflection
+AI was used as a support tool during this project to help with
+brainstorming, organizing ideas, and improving clarity in writing. It assisted
+in structuring the narrative, refining concepts, and keeping the proposal
+focused.
+However, all creative decisions, themes, and final direction were developed
+personally. AI supported the process but did not replace original thinking or
+design.
+AI Use Plan for Project 2 and Project 3
+For Project 2 and Project 3, AI will continue to be used as a support tool rather than a
+replacement for creative thinking. AI may assist with brainstorming interaction ideas,
+organizing narrative structure, and refining clarity in writing and presentation.
+In Project 2, AI may help explore possible puzzle flows, user experience paths, and ways
+to improve interaction clarity. It may also support generating variations of visual or
+narrative ideas during early prototyping.
+In Project 3, AI may assist with refining storytelling, improving user experience, and
+testing different narrative structures. AI may also help identify gaps, simplify complex
+ideas, and improve overall communication of the project.
+However, all core concepts, creative direction, and final design decisions will remain
+personally developed. AI will be used as a tool to support efficiency, exploration, and
+reflection throughout the design process.
+
+
+--- PAGE 17 ---
+Sources cited
+Sources cited
+Sources cited
+Plato. The Republic. Translated by Benjamin Jowett, Project Gutenberg, 2008,
+www.gutenberg.org/ebooks/1497. Accessed 13 Feb. 2026.
+Playdead. Inside. Playdead, 2016.
+Wachowski, Lana, and Lilly Wachowski, directors. The Matrix. Warner Bros., 1999.
+Pillow Castle. Superliminal. Pillow Castle Games, 2019.
+Sheridan College. “Trafalgar Road Campus.” Sheridan College,
+www.sheridancollege.ca/about/campuses/trafalgar-road. Accessed 13 Feb. 2026.
+McCloud, Scott. Understanding Comics: The Invisible Art. HarperCollins, 1993.
+Norman, Don. The Design of Everyday Things. Revised and Expanded Edition, Basic Books, 2013.
+Ryan, Marie-Laure. Narrative as Virtual Reality: Immersion and Interactivity in Literature and Electronic
+Media. Johns Hopkins University Press, 2001
+Murray, Janet H. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. MIT Press, 1997.
+Manovich, Lev. The Language of New Media. MIT Press, 2001.
+
+
+--- PAGE 18 ---
+Thank U

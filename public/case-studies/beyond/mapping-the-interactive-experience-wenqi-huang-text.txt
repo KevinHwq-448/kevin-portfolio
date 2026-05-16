@@ -1,0 +1,564 @@
+
+
+--- PAGE 1 ---
+Mapping the Interactive
+Experience
+WENQI HUANG
+VDES34444 INTERACTIVE NARRATIVE
+
+
+--- PAGE 2 ---
+Concept Update
+mian
+A familiar campus environment hides a deeper structure that shapes how reality is
+perceived. Most people move through these spaces without questioning what they see,
+accepting routines, messages, and social cues as normal. Inspired by Plato’s Allegory of
+the Cave, this experience reimagines the cave as a modern system of interfaces, habits,
+and collective silence.
+My initial idea focused on a hidden system on campus that only a few people were
+aware of.
+ After developing the project further, I updated the concept to make the narrative more
+interesting and interactive.
+In the new version of the story, most people on campus already know that the system
+exists, but they choose to ignore it in order to maintain stability. The participant
+becomes the only person who continues investigating the hidden signals and
+messages.
+Through scanning, decoding, and accessing system logs, the participant gradually
+uncovers the truth about the system. However, the final reveal suggests that the entire
+investigation may also be part of a larger experiment.
+This update strengthens the themes of conformity, curiosity, and individual courage,
+and allows the interactive experience to unfold through discovery and investigation.
+
+
+--- PAGE 3 ---
+Concept Update 
+story premise
+Story Overview
+The story takes place on the Sheridan Trafalgar campus, where a
+hidden system operates beneath everyday life. The system
+monitors the environment and influences information in order to
+maintain stability and order on campus.
+Over time, many students have discovered that the system exists.
+However, instead of confronting it, most people choose to ignore
+the truth and continue living normally.
+Social Situation
+Because the system creates a stable and predictable environment,
+many students accept its presence. A silent agreement forms
+among them: they know the system exists, but they avoid
+questioning it.
+This creates a strange situation where the secret is widely known,
+yet no one openly talks about it.
+
+
+--- PAGE 4 ---
+Concept Update 
+story premise
+Role of the Participant
+The participant plays the role of a student who refuses to
+ignore the anomalies. Unlike others, the participant continues
+to investigate unusual signals and hidden messages across
+campus.
+Through scanning signals, decoding encrypted messages, and
+accessing system logs, the participant gradually uncovers
+deeper layers of the system.
+Narrative Twist
+At first, the participant believes they are discovering a hidden
+system that no one else understands. However, the investigation
+eventually reveals that many people already know about it.
+In the final stage, the participant discovers that their investigation
+may also be part of a larger experiment conducted by the system
+itself.
+
+
+--- PAGE 5 ---
+Narrative Arc Update
+journey map
+Narrative progression
+ From first anomaly to collective silence and
+final choice.
+Interaction structure
+ Each stage uses a different interaction
+format to reveal the story.
+Emotional arc
+ The participant moves from curiosity to
+pressure, shock, and conflict.
+NARRATIVE ARC: FIRST SIGNAL → SUSPICION → HIDDEN MESSAGE → SYSTEM ESCALATION → REVELATION → FINAL CHOICE
+EMOTIONAL ARC: CURIOUS → UNSETTLED → DRAWN IN → PRESSURED → SHOCKED → CONFLICTED
+
+
+--- PAGE 6 ---
+Technology and Narrative Integration
+I mapped different technologies to each stage of the
+experience so the story is revealed through interaction
+rather than direct explanation.
+AR is used at the beginning to introduce the first anomaly
+in a familiar campus environment.
+Puzzle interaction is used to make the participant actively
+decode hidden meaning.
+Narrative Arc Update
+journey map
+Interactive screen / system logs are used to increase
+tension and show that the environment is reacting to the
+participant.
+VR is used at the revelation stage because it is the
+strongest way to fully immerse the participant in the
+hidden reality.
+Decision interface is used at the end to turn the story
+into a personal and moral choice.
+figma link:
+https://www.figma.com/make/YbzTqhBnbjtDCFOVdSBVp
+S/Journey-Map-for-Storytelling?t=jPnQMbx6BnyyC0e5-1
+
+
+--- PAGE 7 ---
+Visual Language
+Environment
+Style Tile
+Beyond the Shadows
+Lighting & Atmosphere
+Symbols / Interface
+
+
+--- PAGE 8 ---
+System Language
+Official / Institutional Material
+Style Tile
+Beyond the Shadows
+Public Messaging / Fragmented Media
+Symbols / Marker System
+
+
+--- PAGE 9 ---
+STEP 1 — Narrative Planning
+Defining the core story concept, participant journey, and
+interactive stages based on Plato’s Allegory of the Cave.
+This step focused on shaping the themes of perception,
+control, illusion, and discovery, while making sure the
+artifact aligned with the overall narrative system.
+Tools | Figma, ChatGPT
+Digital Artifact
+Process
+STEP 2 — Storyboard & Journey Mapping
+Creating a storyboard and journey map to plan how the
+participant moves through each stage, from first signal to
+final choice. This helped organize the pacing, emotional
+arc, and the role of each technology in revealing the story
+step by step.
+Design Tool | Figma
+Visual Reference | Pinterest, film stills, architectural
+references
+STEP 3 — Asset Creation & Prototype Development
+Developing visual assets, interface cues, AR-style
+overlays, and environmental concepts for the experience.
+This stage also included prototyping symbolic spaces,
+hidden messages, and immersive visual elements that
+support the transition from shadow to awareness.
+Design Tool | Figma, Canva
+Prototype / 3D Tool | Godot
+Support Tool | ChatGPT
+STEP 4 — Final Experience Integration
+Combining narrative, visuals, and interaction into a
+cohesive final presentation. This step focused on how the
+participant would encounter hidden symbols, guided
+messages, and the final immersive revelation space,
+while refining the experience for clarity and consistency.
+Prototype Tool | Godot, Figma
+Presentation | Figma / Slides
+Support Tool | ChatGPT
+
+
+--- PAGE 10 ---
+1. The Participant
+The participant is the main character of the experience. Rather than following a fully
+defined fictional protagonist, the story places the user directly into the journey. At
+the beginning, they move through campus as if everything is ordinary. As hidden
+signs, repeated symbols, and guided interactions begin to appear, they become
+someone who notices what others ignore. Their role shifts from passive observer to
+active seeker of truth.
+2. The Collective
+The collective represents the people who continue moving through everyday life
+without questioning what they see. They are not unaware, but normalized by
+routine, systems, and accepted beliefs. In this way, they reflect the prisoners in
+Plato’s cave—those who remain within a familiar version of reality because it feels
+stable and comfortable.
+3. The Hidden System
+The hidden system is an invisible structure embedded within the everyday campus
+environment. It is not a single person or organization, but a network of routines,
+messages, interfaces, and spatial controls that shapes how reality is perceived.
+Through repeated signs, accepted behaviours, and controlled access to information,
+it determines what feels normal and what remains hidden.
+Within the world of the story, most people no longer question this system because
+it provides order, stability, and familiarity. However, that stability comes at the cost
+of awareness. As the participant moves through the experience, they begin to
+realize that the campus is not simply a neutral setting, but a constructed
+environment that guides perception and discourages questioning. In this way, the
+hidden system becomes the modern form of Plato’s cave.
+Characters Update
+
+
+--- PAGE 11 ---
+Media Development
+For media development, our project was distributed across multiple platforms to support the narrative in different ways. We developed
+web-based prototypes, an AR interaction, and a VR scene so the story could unfold across digital layers rather than in a single format.
+Media Development
+Web-Based Digital Platforms
+We created one web-based platform to support
+different parts of the experience. Developed using
+Figma, this platform is an interactive prototype; other
+platforms explored how to access and understand the
+story through a browser-based interface. These
+platforms serve as digital media spaces where
+participants can access story fragments, navigational
+cues, and visual materials relevant to the larger
+narrative world.
+
+
+--- PAGE 12 ---
+Overall Design Logic
+This interface is designed as a gradual investigation system.
+ Instead of explaining the story all at once, each step uses scanning, decoding, system access, and
+choice-making to move the participant from curiosity to discovery. The design combines minimal
+dark UI, terminal language, warning colours, and progress tracking to make the experience feel
+controlled, secretive, and increasingly unstable.
+Media Development
+STEP 1 — SCAN MODE
+This first screen introduces the participant to the investigation
+through a familiar scanning interface. The central frame, signal
+strength bar, and scan button make the interaction easy to
+understand immediately, which helps the experience feel intuitive
+from the start.
+The design choice here is subtle but important. Instead of
+presenting the campus as already strange, the interface treats an
+ordinary poster as something worth scanning. This transforms a
+familiar environment into the beginning of a hidden narrative. The
+weak signal indicator also suggests that the truth is not fully visible
+yet, encouraging the participant to continue searching rather than
+expecting immediate answers.
+Design intention:
+To make the first interaction simple, accessible, and curiosity-
+driven.
+Clever use:
+An everyday object becomes the first narrative trigger, turning
+ordinary space into a surface that may contain hidden meaning.
+
+
+--- PAGE 13 ---
+Media Development
+STEP 2 — PUZZLE / MESSAGE DETECTED
+The second step introduces an encrypted message instead
+of revealing information directly. The participant is asked
+to interact with the cipher and decode the text
+themselves. This creates a stronger sense of involvement,
+because the participant is no longer just receiving story
+content — they are actively uncovering it.
+The focused layout, locked icon, and scanning-line texture
+make the message feel restricted and controlled. The
+interface begins to shift from neutral investigation into
+something more secretive and system-like. This step also
+reflects one of the project’s key themes: truth exists, but it
+is obscured by the structures that contain it.
+Design intention:
+ To turn discovery into participation and make the user
+feel like an investigator.
+Clever use:
+ The puzzle mechanic reinforces the narrative theme that
+truth must be decoded and interpreted, not simply
+delivered.
+
+
+--- PAGE 14 ---
+Media Development
+STEP 3 — SYSTEM ACCESS
+At this stage, the interface changes into a restricted
+terminal system. The visual language becomes more
+technical, more controlled, and less open. Log messages
+such as “participant awareness increasing,” “hidden layer
+exposure rising,” and “integrity at 42%” suggest that the
+participant has crossed a boundary.
+This is an important narrative shift. Earlier steps frame the
+participant as someone investigating the system, but here
+the system begins to feel aware of the participant. The
+relationship changes from observation to confrontation.
+The interface itself becomes part of the story, making the
+hidden system feel active, responsive, and unstable.
+The use of green and red is especially effective here.
+Green communicates access, progress, and visibility, while
+red introduces danger, exposure, and the threat of
+instability. Together, they create tension without needing a
+visible antagonist.
+Design intention:
+ To make the hidden system feel alive and reactive.
+Clever use:
+ The interface no longer acts as a neutral tool — it
+becomes evidence that the participant is being noticed.
+
+
+--- PAGE 15 ---
+Media Development
+STEP 4 — TRUTH / FINAL CHOICE
+This is the climax of the interface. The progress bar is fully
+completed, the warning state is activated, and the
+participant is presented with two final choices: Stay in the
+System or See the Truth.
+The design becomes more minimal here because the
+narrative no longer needs more clues or mechanics. The
+participant has already uncovered enough. What matters
+now is interpretation and decision. The large red “SYSTEM
+ALERT” text creates emotional intensity, while the two
+buttons represent the project’s central philosophical
+tension.
+This moment connects directly to Plato’s Allegory of the
+Cave. The participant must decide whether to remain
+within a stable but limited version of reality, or move
+toward a more difficult, unsettling truth. The interface
+does not frame this as a right-or-wrong answer, but as a
+meaningful narrative choice.
+Design intention:
+ To transform the ending into a reflective decision rather
+than a simple success state.
+Clever use:
+ The final interaction is not about winning, but about
+choosing between comfort and awareness.
+
+
+--- PAGE 16 ---
+Media Development
+STEP 5 — STAY IN THE SYSTEM
+If the participant chooses to remain in the system, the
+ending screen shows SYSTEM REBOOTING and a return to
+“normal parameters.” The visual tone is calm, restrained,
+and procedural rather than dramatic.
+This is a very intentional design decision. The system does
+not punish the participant in an obvious way. Instead, it
+quietly absorbs them back into routine. This supports the
+project’s idea that control often operates through stability,
+repetition, and normalization rather than direct force. The
+ending feels cold and efficient, which makes it more
+unsettling than a conventional failure screen.
+Design intention:
+ To show that returning to the system is not a dramatic
+collapse, but a quiet re-entry into accepted reality.
+Clever use:
+ The system restores order so smoothly that the
+participant may barely notice they have surrendered their
+awareness.
+
+
+--- PAGE 17 ---
+Media Development
+STEP 6 — SEE THE TRUTH
+If the participant chooses to see the truth, the final screen
+changes to REALITY UNBOUND. The language is minimal,
+direct, and open-ended. Unlike the reboot ending, this one
+does not restore order. Instead, it suggests that the
+participant now has access to the hidden layer beneath
+ordinary reality.
+The most important detail is the final button: Initiate New
+Scan. This means the truth is not presented as a final
+solution or complete answer. Awareness opens another
+cycle of questioning. In this way, the ending remains
+faithful to the project’s larger concept: leaving the cave is
+not the end of the journey, but the beginning of deeper
+perception.
+Design intention:
+ To make truth feel transformative, but unresolved.
+Clever use:
+ The ending refuses closure and instead suggests that
+awareness leads to further investigation, not certainty.
+
+
+--- PAGE 18 ---
+Media Development
+Overall Strength of the Interface
+This interface works well because it translates the
+narrative into interaction. Each step introduces a new kind
+of engagement — scanning, decoding, accessing, and
+choosing — so the participant experiences the story
+through action rather than exposition.
+The interface also mirrors the emotional arc of the project:
+Scan introduces curiosity
+Puzzle builds suspicion
+System Access creates tension
+Truth produces confrontation and reflection
+The final endings reinforce the project’s themes of
+normalization and awakening
+Most importantly, the system itself becomes a narrative
+force without ever appearing as a visible character.
+Through logs, warnings, progress indicators, and restricted
+access language, the interface makes the hidden system
+feel present, intelligent, and embedded within the
+environment.
+
+
+--- PAGE 19 ---
+Media Development
+AR Platform
+Rather than focusing on puzzles or system access, the AR component is
+designed to transform physical space through floating text, glitch effects,
+and ambient sound. When viewed through the device, familiar campus
+environments become unstable and emotionally charged, allowing the
+participant to feel that hidden meanings exist beneath the surface.
+The floating typography works as a visual interruption within ordinary
+space, while the glitch effect suggests distortion, instability, and the
+breakdown of accepted reality. Together, these elements support the
+project’s central theme of moving beyond appearances and questioning
+what feels normal.
+Sound Design
+The sound design is created separately in FL Studio and is used to build
+different emotional atmospheres for each stage of the experience.
+ Instead of using one continuous soundtrack, the audio changes
+depending on the scene, helping guide the participant through curiosity,
+unease, discovery, and revelation. This makes the AR experience more
+immersive and gives each environment its own narrative tone.
+
+
+--- PAGE 20 ---
+Media Development
+VR Platform
+The VR experience functions as the final immersive stage of the project.
+ While the web interface focuses on investigation and the AR layer
+transforms physical space through hidden text and glitch effects, the VR
+scene brings the participant into a fully symbolic environment inspired by
+Plato’s Allegory of the Cave.
+Through darkness, shadow, focused light, and environmental atmosphere,
+the VR space represents the moment when familiar reality begins to break
+down. Instead of presenting information through screens or messages,
+this stage allows the participant to experience revelation spatially, as if
+they are stepping beyond the surface and entering the hidden structure
+behind perception.
+Spatial Design
+
+
+--- PAGE 21 ---
+Media Development
+VR Platform
+The VR environment is designed as a symbolic cave-like space rather
+than a realistic location.
+ Minimal architecture, restricted visibility, and controlled lighting create
+a sense of uncertainty and tension. This helps the participant feel
+separated from ordinary campus reality and placed inside a more
+psychological and reflective environment.
+Narrative Function
+The purpose of the VR scene is to transform the project’s themes into
+space.
+ It acts as the climax of the experience, where the participant moves
+from observing clues to directly confronting the system that has shaped
+their perception. In this way, VR becomes the medium for revelation,
+reflection, and final choice.
+
+
+--- PAGE 22 ---
+FL Studio
+The background music for this project was originally composed in FL
+Studio to support the narrative emotionally and atmospherically. Rather
+than using one continuous track, the sound design changes across
+stages to reflect the participant’s movement from familiarity, to
+suspicion, to discovery, and finally to revelation.
+In the earlier stages, the music remains restrained and subtle, using
+ambient textures, low-frequency layers, and slow pacing to create a
+feeling of quiet unease within familiar spaces. As the participant moves
+deeper into the experience, more electronic pulses, fragmented
+textures, and glitch-like sounds are introduced to reflect scanning,
+decoding, and system access.
+For the final VR scene, the music becomes more spacious and
+immersive, with deeper drones, wider reverb, and fewer but more
+deliberate tones. This helps transform the environment into a symbolic
+revelation space, where sound works together with darkness, light,
+floating text, and digital structures to create a stronger sense of
+entering the hidden layer behind ordinary reality.
+Using FL Studio allowed me to compose and control the mood of each
+stage more precisely, making the soundtrack an active part of the
+storytelling rather than just a background element.
+
+
+--- PAGE 23 ---
+AI Usage Reflection
+AI was used in this project as a support tool for ideation, writing refinement, and early-
+stage prototyping. It helped with developing and clarifying the narrative structure, refining
+the wording of story components, and organizing how the experience could be
+distributed across web, AR, and VR platforms. AI was also useful for quickly testing visual
+directions, generating placeholder concepts, and exploring how interactive elements such
+as floating text, hidden messages, and symbolic environments might be described or
+implemented.
+However, AI was not used to replace the design process. The final concept, visual
+direction, narrative logic, and media choices were shaped through my own decisions and
+project goals. Many AI-generated suggestions were too broad, too literal, or not fully
+aligned with the project’s themes, so they needed to be selected, edited, and adapted
+carefully. In this way, AI functioned more as a brainstorming and iteration partner than as
+an author of the final work.
+The most important creative decisions remained human-led. The project’s thematic
+framing around Plato’s Allegory of the Cave, the integration of web, AR, and VR, and the
+emotional pacing of the experience were developed through my own interpretation and
+refinement. In particular, the soundtrack and atmosphere design were created separately
+in FL Studio, allowing the sound to be shaped intentionally for each stage of the narrative.
+This balance helped ensure that AI supported productivity and experimentation while the
+final project still reflected my own creative direction.
+
+
+--- PAGE 24 ---
+Project
+Management Plan
+At the start of this project, I realized that my main strengths were concept
+development, narrative thinking, and visual imagination. I was able to connect
+Plato’s Allegory of the Cave to a campus setting and develop it into an interactive
+experience.
+ I was also confident in building atmosphere, shaping the emotional tone of the
+project, and thinking about how participants would move through the story
+across web, AR, and VR platforms.
+However, I also recognized some weaknesses. At the beginning, my ideas were
+sometimes too broad, and it took time to narrow the concept into a clearer and
+more focused direction. I also found project planning and technical execution
+more challenging, especially when trying to connect different media platforms
+into one coherent system.
+During the project, I improved by refining the concept step by step, reducing
+unnecessary complexity, and focusing on clarity and consistency. This process
+helped me better understand how to balance creativity with structure. It also
+strengthened my confidence in planning, prototyping, and developing an
+interactive narrative across multiple platforms.
+Strengths
+Strong in concept development and idea
+generation
+Good at narrative and theme thinking
+Strong visual imagination and atmosphere
+building
+Able to connect story with interaction
+design
+Good at refining and improving ideas
+through iteration
+Weaknesses
+Ideas can become too broad in the early
+stage
+Need stronger project planning and time
+organization
+Sometimes unsure how to turn ideas into
+clear technical steps
+Multi-platform integration can be
+challenging at first
+Can overthink before making final decisions
+
+
+--- PAGE 25 ---
+Sources cited
+Plato. (1935). Republic (P. Shorey, Trans.). Harvard University Press.
+https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030/ 
+OpenAI. (n.d.). ChatGPT [Large language model]. https://chatgpt.com/ 
+Figma, Inc. (n.d.). Figma [Computer software]. https://www.figma.com/ 
+Image-Line Software. (n.d.). FL Studio [Computer software].
+ https://www.image-line.com/fl-studio/ 
+Godot Engine contributors. (n.d.). Godot Engine [Computer software]. https://godotengine.org/ 
+Canva Pty Ltd. (n.d.). Canva [Computer software]. https://www.canva.com/ 
+Unsplash. (n.d.). Unsplash. https://unsplash.com/ 
+Pexels. (n.d.). Pexels. https://www.pexels.com/ 
+Pinterest. (n.d.). Pinterest. https://www.pinterest.com/ 
+Possible / backup references
+Adobe. (n.d.). Behance. https://www.behance.net/ 
+Adobe. (n.d.). Adobe Express [Computer software].
+ https://www.adobe.com/express/ 
+DEVAR. (n.d.). MyWebAR [Computer software]. https://mywebar.com/ 
+Partenie, C. (2009/2022). Plato’s myths. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy.
+https://plato.stanford.edu/entries/plato-myths/ 
+Encyclopaedia Britannica. (n.d.). Myth of the cave. https://www.britannica.com/topic/myth-of-the-cave
+
+
+--- PAGE 26 ---
+Thank u

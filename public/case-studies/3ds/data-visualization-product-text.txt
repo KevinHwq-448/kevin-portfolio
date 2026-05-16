@@ -1,0 +1,264 @@
+--- PAGE 1 ---
+Data Visualization Product
+Wenqi Huang
+VDES39915 
+
+
+--- PAGE 2 ---
+Prototype
+https://kite-viola-46916045.figma.site
+URL：
+
+
+--- PAGE 3 ---
+Screenshot
+
+
+--- PAGE 4 ---
+Screenshot
+
+
+--- PAGE 5 ---
+Chart Design
+Chart Design
+The charts use different visual forms, such as radar
+charts, bar charts, line charts, and scatter plots, to
+present data clearly and effectively. Consistent
+colors are used to separate categories and highlight
+comparisons, improving readability and contrast.
+Clear labels, legends, and spacing make the charts
+easy to understand, while interactive features like
+filtering and comparison help users explore the data
+and make better choices.
+
+
+--- PAGE 6 ---
+PRD
+Problem
+Students often do not know which study spaces on
+campus best match their needs. Some places may
+be too noisy, too crowded, or lack power outlets, but
+this information is not easy to compare quickly. As
+a result, students may waste time moving between
+spaces or choose locations that do not support
+their work well.
+Goal
+Create an interactive data visualization product
+that helps students compare campus study spaces
+based on student-reported experience. The product
+should help users quickly find a place that fits their
+study style, such as quiet solo work, group
+collaboration, or long study sessions.
+Target Audience and User Stories
+Target Audience
+1 .Sheridan students looking for a place to study on campus
+2 .New students who do not know campus spaces well
+3 .Students who have different needs depending on task, time, or environment
+User Types
+1 .The Focused Student: wants a quiet place with fewer distractions
+2 .The Group Worker: wants a space that supports collaboration
+3 .The Long-Stay Student: needs comfort, outlets, and reliable seating
+Primary User Story
+As a student, I want to compare study spaces on
+campus, so that I can choose the best place for my
+current task and comfort needs.
+
+
+--- PAGE 7 ---
+PRD
+Functional Requirements
+Students often do not know which study spaces on
+campus best match their needs. Some places may
+be too noisy, too crowded, or lack power outlets, but
+this information is not easy to compare quickly. As
+a result, students may waste time moving between
+spaces or choose locations that do not support
+their work well.
+Success Metrics
+Users can identify a suitable study space in under
+one minute.
+ Users can compare multiple locations without
+confusion.
+ Users understand the main insights of the
+dashboard without extra explanation.
+ Users feel more confident choosing where to study
+after using the product.
+Data Visualization and UI Constraints
+1.Charts must be easy to read at a glance and should avoid clutter.
+2.Colour should support understanding, but information should not rely only on
+colour.
+3.Labels, titles, and section headings must clearly explain what each chart
+shows.
+4.The layout should support quick scanning, comparison, and interaction.
+5.The visual design should feel clean, student-friendly, and portfolio-ready.
+Nice-to-Haves
+Filter by time period
+Mobile-friendly version
+"Best match" recommendations for different
+learning needs
+Student reviews or quotes for each space
+Compare each location
+
+
+--- PAGE 8 ---
+PRD
+User Flow Chart
+The user begins on the homepage, where a 3D interactive campus
+map displays numbered markers for each study space. From here,
+they can either filter spaces by learning mode (Solo, Group, Long
+Study, Quick Stop) to highlight matching buildings, tap a map pin to
+see a tooltip and open the detail panel, or scroll down to explore the
+Analytics Dashboard with bar charts and scatter plots. The detail
+panel presents comprehensive data — radar chart, hourly crowd
+trend, amenities — and allows users to add up to 3 spaces to a
+side-by-side comparison view or request a smart recommendation
+based on personal preferences. All paths are non-linear; users can
+freely switch between filtering, comparing, and browsing at any
+point before choosing their ideal study space.
+
+
+--- PAGE 9 ---
+Process
+Document
+Study Mode
+This feature helps users quickly filter
+locations on the map, allowing them to
+accurately identify their needs. The map
+will also highlight the locations that meet
+the desired criteria.
+
+
+--- PAGE 10 ---
+Process
+Document
+Map
+This is a multi-functional interactive map.
+Clicking on the corresponding location will
+display key metrics, and it will also display
+bar charts and scatter plots in real time for
+users to compare and refer to, making it
+easier for users to make choices. A rating
+function is added at the bottom, which is
+also one of the data collection methods.
+
+
+--- PAGE 11 ---
+Process
+Document
+Map
+Initially, I used this method to remove the
+background from a screenshot of the
+original map, but I found that the
+readability wasn't good enough. So, I used
+Procreate to outline and fill the map to
+improve readability and provide a better
+map orientation experience.
+
+
+--- PAGE 12 ---
+Process
+Document
+Space analytics
+This is an interactive dashboard for
+comparing campus study spaces. Users
+can view different metrics such as
+comfort, noise level, crowd level, outlet
+access, and satisfaction. The charts help
+users quickly understand the strengths
+and weaknesses of each location, making
+it easier to choose a suitable study
+space. User ratings and feedback are also
+included as part of the data collection
+method.
+
+
+--- PAGE 13 ---
+Process
+Document
+Recommended for you
+This feature gives users personalized
+recommendations based on real-time
+data. It suggests study spaces for
+different needs, such as quiet study,
+group work, or long sessions. As more
+user ratings and current space data are
+added, the recommendations can update
+dynamically, making it easier for users to
+choose the best place.
+
+
+--- PAGE 14 ---
+Process
+Document
+Compare study spaces
+This feature lets users compare different
+study spaces side by side. It displays key
+metrics and visual charts to help users
+quickly understand the differences
+between each location. By showing both
+overall patterns and detailed values, it
+makes decision-making easier and more
+efficient.
+
+
+--- PAGE 15 ---
+Knowledge Sharing 
+My classmates’ sharing had a clear impact on my project design. Their
+posts provided useful references for chart selection, interaction ideas,
+survey distribution, and data handling. These resources helped me think
+more carefully about how to collect data, how to update it through
+Google Sheets, and how to choose the right visualizations for
+comparison. They also reminded me to consider clarity, interpretation,
+and context, not just aesthetics. Overall, peer sharing helped me improve
+both the design and the data logic of my project.
+
+
+--- PAGE 16 ---
+When I started this project, I knew what I wanted to make, but I was not always sure how
+to build every part of it efficiently. I used AI as a coding partner to help me move faster,
+especially when I was building components, troubleshooting problems, and refining the
+interface. I did not use AI to generate the whole project at once. Instead, I worked step by
+step and used it as support throughout the process.
+I broke the project into smaller parts, including the interactive map, data structure, filters,
+comparison feature, and charts. For each part, I described what I wanted, reviewed the
+result, tested it, and then asked for revisions when needed. This helped me realize that AI
+works best when my instructions are specific. For example, telling it to use #003767 as the
+primary color or clearly defining what should appear in a study-space comparison gave
+much better results than vague prompts.
+AI was also useful when bugs came up. When I ran into issues such as duplicate key
+warnings in Recharts, I shared the error and used AI to help me understand what was
+going wrong and what I could try next. Even then, I still had to decide what made sense for
+my project, test the solution, and adjust the code myself.
+The biggest thing I learned is that AI does not replace design thinking. I still made the
+decisions about the layout, interactions, data presentation, and visual style. AI helped me
+execute ideas faster, but the direction, judgment, and final outcome were still mine.
+AI
+
+
+--- PAGE 17 ---
+Citations
+Sheridan College. “Trafalgar Campus.” Sheridan College, https://www.sheridancollege.ca/-/media/project/sheridan/shared/files/about/campus-
+locations/campus-map-trafalgar.pdf. Accessed 16 Apr. 2026.
+“Recharts.” Recharts, https://recharts.org/. Accessed 16 Apr. 2026.
+“React.” React, Meta Platforms, Inc., https://react.dev/. Accessed 16 Apr. 2026.
+“Next.js Docs.” Next.js, Vercel, https://nextjs.org/docs. Accessed 16 Apr. 2026.
+“Tailwind CSS.” Tailwind CSS, https://tailwindcss.com/. Accessed 16 Apr. 2026.
+Figma. “Figma: The Collaborative Interface Design Tool.” Figma, https://www.figma.com/. Accessed 16 Apr. 2026.
+“[Brief description of the prompt or output you used]” prompt. ChatGPT, model GPT-5.4 Thinking, OpenAI, [day mon. year], [share URL or
+https://openai.com/chatgpt/].
+“[Brief description of the coding prompt you used]” prompt. Codex, model gpt-5.4, OpenAI, [day mon. year], [URL if available or
+https://openai.com/codex/].
+Figma. “Figma Make: Create with AI-Powered Design Tools.” Figma, https://www.figma.com/make/. Accessed 16 Apr. 2026.
+Google. “How to Use Google Forms - Computer.” Google Docs Editors Help, https://support.google.com/docs/answer/6281888?hl=en. Accessed 16 Apr.
+2026.
+Google. “Publish & Share Your Form with Responders.” Google Docs Editors Help, https://support.google.com/docs/answer/2839588?hl=en. Accessed 16
+Apr. 2026.
+Google. “How to Use Google Sheets - Computer.” Google Docs Editors Help, https://support.google.com/docs/answer/6000292?hl=en. Accessed 16 Apr.
+2026.
+Google. “Google Sheets: Online Spreadsheets & Templates.” Google Workspace, https://workspace.google.com/products/sheets/. Accessed 16 Apr. 2026.
+“Lucide for React.” Lucide, https://lucide.dev/guide/react. Accessed 16 Apr. 2026.
+“Vercel Documentation.” Vercel, https://vercel.com/docs. Accessed 16 Apr. 2026.
+
+
+--- PAGE 18 ---
+Thank You
