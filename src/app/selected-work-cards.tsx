@@ -399,7 +399,7 @@ function ProjectCard({
   return (
     <motion.article
       animate={cardControls}
-      className="group relative min-h-[640px] overflow-hidden rounded-lg border border-white/10 bg-[#17172A]/78 p-3 shadow-[0_28px_90px_rgba(0,0,0,0.25)] transition duration-300 hover:-translate-y-1 hover:border-white/20 hover:bg-[#1A1A2F] md:min-h-[680px]"
+      className="group relative min-h-[590px] overflow-hidden rounded-lg border border-white/10 bg-[#17172A]/78 p-3 shadow-[0_28px_90px_rgba(0,0,0,0.25)] transition duration-300 hover:-translate-y-1 hover:border-white/20 hover:bg-[#1A1A2F] min-[390px]:min-h-[620px] md:min-h-[680px]"
       id={project.title.toLowerCase().replaceAll(" ", "-")}
       initial={hiddenState}
       ref={cardRef}
@@ -421,7 +421,7 @@ function ProjectCard({
 
       <motion.div
         animate={imageControls}
-        className={`relative h-[330px] overflow-hidden rounded-lg border border-white/10 ${visual.backdrop} md:h-[380px]`}
+        className={`relative h-[280px] overflow-hidden rounded-lg border border-white/10 min-[390px]:h-[320px] ${visual.backdrop} md:h-[380px]`}
         initial={imageHiddenState}
       >
         <Image
@@ -450,14 +450,14 @@ function ProjectCard({
 
       <motion.div
         animate={contentControls}
-        className="relative z-10 flex min-h-[282px] flex-col px-2 pb-2 pt-5"
+        className="relative z-10 flex min-h-[260px] flex-col px-2 pb-2 pt-5 md:min-h-[282px]"
         initial={{ opacity: 0, y: reduced ? 0 : 14 }}
       >
         <p className="text-[12px] font-bold uppercase leading-5 tracking-[0.12em] text-[#94A3B8]">
           {project.category}
         </p>
         <div className="mt-3 grid gap-4 lg:grid-cols-[1fr_auto] lg:items-start">
-          <h3 className="font-display max-w-[520px] text-[30px] font-semibold leading-[1.05] text-[#E2E8F0]">
+          <h3 className="font-display max-w-[520px] text-[26px] font-semibold leading-[1.05] text-[#E2E8F0] min-[390px]:text-[28px] md:text-[30px]">
             {project.title}
           </h3>
           <span
@@ -467,7 +467,7 @@ function ProjectCard({
             -&gt;
           </span>
         </div>
-        <p className="mt-4 text-[17px] leading-7 text-[#D7DDEA]">
+        <p className="mt-4 text-[16px] leading-7 text-[#D7DDEA] md:text-[17px]">
           {visual.prompt}
         </p>
         <p className="mt-3 text-[15px] leading-7 text-[#94A3B8]">
@@ -501,7 +501,7 @@ export default function SelectedWorkCards({ projects }: SelectedWorkCardsProps) 
   const isMobile = hydrated && mobileQuery;
 
   return (
-    <div className="relative px-1 py-12 md:px-4 lg:px-10">
+    <div className="relative px-0 py-10 md:px-4 md:py-12 lg:px-10">
       <div className="pointer-events-none absolute inset-x-0 top-8 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent" />
       <div className="grid items-stretch gap-5 lg:grid-cols-2 lg:gap-6">
         {projects.map((project, index) => (

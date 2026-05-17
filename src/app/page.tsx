@@ -126,7 +126,7 @@ export default function Home() {
 
       <section
         id="top"
-        className="relative z-10 mx-auto grid max-w-7xl gap-12 px-5 pb-24 pt-20 sm:px-8 sm:pt-28 lg:grid-cols-[0.9fr_1.1fr] lg:items-center lg:pb-32"
+        className="relative z-10 mx-auto grid max-w-7xl gap-10 px-5 pb-20 pt-28 sm:px-8 sm:pt-28 lg:grid-cols-[0.9fr_1.1fr] lg:items-center lg:pb-32"
       >
         <FadeIn className="max-w-[720px] lg:pb-10" distance={18}>
           <p className="text-[13px] font-semibold uppercase text-[#94A3B8]">
@@ -136,18 +136,18 @@ export default function Home() {
             Interaction Design · Product Interfaces · Creative Technology
           </p>
           <h1 className="font-display mt-8 max-w-[760px] pb-4 text-[#E2E8F0]">
-            <span className="block text-[52px] font-semibold leading-[1.03] sm:text-[76px] lg:text-[84px]">
+            <span className="block text-[48px] font-semibold leading-[1.03] min-[390px]:text-[52px] sm:text-[76px] lg:text-[84px]">
               Designing
             </span>
-            <span className="mt-1 block text-[34px] font-semibold leading-[1.12] text-[#D7DDEA] sm:ml-12 sm:text-[50px] lg:text-[56px]">
+            <span className="mt-1 block text-[32px] font-semibold leading-[1.12] text-[#D7DDEA] min-[390px]:text-[34px] sm:ml-12 sm:text-[50px] lg:text-[56px]">
               digital products
             </span>
-            <span className="mt-1 block text-[34px] font-semibold leading-[1.12] text-[#AEB9CC] sm:text-[48px] lg:text-[54px]">
+            <span className="mt-1 block text-[32px] font-semibold leading-[1.12] text-[#AEB9CC] min-[390px]:text-[34px] sm:text-[48px] lg:text-[54px]">
               data interfaces
             </span>
             <span className="relative mt-2 block pb-3 sm:pl-16">
               <span className="absolute bottom-1 left-0 h-5 w-[82%] rounded-full bg-[#8B5CF6]/16 blur-md sm:left-16" />
-              <span className="relative block bg-gradient-to-r from-[#E2E8F0] via-[#C4B5FD] to-[#8B5CF6] bg-clip-text text-[38px] font-semibold leading-[1.16] text-transparent sm:text-[56px] lg:text-[62px]">
+              <span className="relative block bg-gradient-to-r from-[#E2E8F0] via-[#C4B5FD] to-[#8B5CF6] bg-clip-text text-[34px] font-semibold leading-[1.16] text-transparent min-[390px]:text-[38px] sm:text-[56px] lg:text-[62px]">
                 <span className="block sm:inline">interactive</span>{" "}
                 <span className="block sm:inline">prototypes.</span>
               </span>
@@ -181,7 +181,7 @@ export default function Home() {
 
       <section
         id="work"
-        className="relative z-10 mx-auto max-w-7xl px-5 py-24 sm:px-8 lg:py-28"
+        className="relative z-10 mx-auto max-w-7xl px-5 py-20 sm:px-8 lg:py-28"
       >
         <FadeIn className="mb-8 max-w-[980px] lg:ml-[8%]">
           <p className="text-[13px] font-bold uppercase text-[#8B5CF6]">
@@ -200,7 +200,7 @@ export default function Home() {
         id="process"
         className="relative z-10 border-y border-white/10 bg-[#17172A]/28"
       >
-        <div className="mx-auto grid max-w-7xl gap-12 px-5 py-24 sm:px-8 lg:grid-cols-[0.72fr_1.28fr] lg:py-28">
+        <div className="mx-auto grid max-w-7xl gap-10 px-5 py-20 sm:px-8 lg:grid-cols-[0.72fr_1.28fr] lg:py-28">
           <FadeIn className="lg:sticky lg:top-28 lg:self-start">
             <p className="text-[13px] font-bold uppercase text-[#8B5CF6]">
               How I Work
@@ -233,7 +233,7 @@ export default function Home() {
 
       <section
         id="skills"
-        className="relative z-10 mx-auto max-w-7xl px-5 py-24 sm:px-8 lg:py-28"
+        className="relative z-10 mx-auto max-w-7xl px-5 py-20 sm:px-8 lg:py-28"
       >
         <FadeIn className="mb-10 max-w-3xl lg:ml-auto lg:mr-[10%]">
           <p className="text-[13px] font-bold uppercase text-[#8B5CF6]">
@@ -270,7 +270,7 @@ export default function Home() {
         id="about"
         className="relative z-10 border-y border-white/10 bg-[#17172A]/28"
       >
-        <div className="mx-auto grid max-w-7xl gap-12 px-5 py-24 sm:px-8 lg:grid-cols-[0.8fr_1.2fr] lg:items-center lg:py-28">
+        <div className="mx-auto grid max-w-7xl gap-10 px-5 py-20 sm:px-8 lg:grid-cols-[0.8fr_1.2fr] lg:items-center lg:py-28">
           <SlideIn className="lg:pb-12" direction="left">
             <div className="rounded-lg border border-white/10 bg-[#17172A]/78 p-6 shadow-[0_18px_44px_rgba(0,0,0,0.16)]">
               <p className="text-[13px] font-semibold uppercase text-[#94A3B8]">
@@ -325,7 +325,7 @@ export default function Home() {
 
       <section
         id="contact"
-        className="relative z-10 mx-auto max-w-7xl px-5 py-24 sm:px-8 lg:py-28"
+        className="relative z-10 mx-auto max-w-7xl px-5 py-20 sm:px-8 lg:py-28"
       >
         <ScaleIn>
           <div className="ml-auto max-w-6xl rounded-lg border border-white/10 bg-[#17172A]/78 p-7 shadow-[0_18px_44px_rgba(0,0,0,0.16)] sm:p-10 lg:mr-[4%]">

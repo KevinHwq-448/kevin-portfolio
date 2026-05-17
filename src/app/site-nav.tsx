@@ -88,9 +88,30 @@ export default function SiteNav() {
 
         <a
           href="#contact"
-          className="rounded-full border border-white/15 px-4 py-2 text-[15px] font-semibold text-[#E2E8F0] transition hover:border-[#8B5CF6]/70 hover:bg-[#8B5CF6]/10"
+          className="rounded-full border border-white/15 px-3 py-2 text-[14px] font-semibold text-[#E2E8F0] transition hover:border-[#8B5CF6]/70 hover:bg-[#8B5CF6]/10 sm:px-4 sm:text-[15px]"
         >
           Contact
+        </a>
+      </motion.div>
+      <motion.div
+        animate={{
+          opacity: compact ? 0.72 : 1,
+          paddingBottom: compact ? 8 : 10,
+        }}
+        className="mx-auto flex max-w-7xl items-center gap-4 overflow-x-auto px-5 text-[13px] font-semibold text-[#94A3B8] [scrollbar-width:none] md:hidden [&::-webkit-scrollbar]:hidden"
+        transition={{ duration: 0.25 }}
+      >
+        <a className="shrink-0 transition hover:text-[#E2E8F0]" href="#work">
+          Work
+        </a>
+        <a className="shrink-0 transition hover:text-[#E2E8F0]" href="#process">
+          Process
+        </a>
+        <a className="shrink-0 transition hover:text-[#E2E8F0]" href="#skills">
+          Skills
+        </a>
+        <a className="shrink-0 transition hover:text-[#E2E8F0]" href="#about">
+          About
         </a>
       </motion.div>
     </motion.nav>

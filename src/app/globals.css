@@ -22,7 +22,7 @@
 }
 
 html {
-  scroll-padding-top: 88px;
+  scroll-padding-top: 112px;
   scroll-behavior: smooth;
 }
 
@@ -49,6 +49,7 @@ body {
   opacity: 0.58;
   overflow: hidden;
   will-change: background-position;
+  z-index: 1;
 }
 
 .ambient-grid::before {
@@ -131,6 +132,7 @@ body {
   opacity: 0.96;
   overflow: hidden;
   will-change: background-position, opacity;
+  z-index: 0;
 }
 
 .ambient-glow::before {

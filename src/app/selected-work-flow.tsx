@@ -301,7 +301,7 @@ function getCardAnimation(offset: number, isMobile: boolean, prefersReducedMotio
     return {
       x: 0,
       y: isActive ? 0 : 10,
-      scale: isActive ? 1 : 0.94,
+      scale: isActive ? 1 : 0.96,
       rotateY: 0,
       opacity: isActive ? 1 : 0,
       zIndex: isActive ? 30 : 1,
@@ -425,7 +425,7 @@ export default function ProjectFlowShowcase() {
   return (
     <motion.section
       aria-label="Selected Work Flow"
-      className="relative min-h-[540px] select-none sm:min-h-[520px]"
+      className="relative min-h-[500px] select-none sm:min-h-[520px]"
       animate={{ opacity: 1, y: 0 }}
       initial={{ opacity: 0, y: 18 }}
       onBlur={() => setIsHovering(false)}
@@ -437,7 +437,7 @@ export default function ProjectFlowShowcase() {
       <h2 className="sr-only">Selected Work Flow project showcase</h2>
 
       <motion.div
-        className={`flow-stage relative mx-auto h-[520px] max-w-[640px] overflow-hidden rounded-lg sm:h-[500px] ${
+        className={`flow-stage relative mx-auto h-[500px] max-w-[640px] overflow-hidden rounded-lg sm:h-[500px] ${
           isDragging ? "cursor-grabbing" : "cursor-grab"
         }`}
         drag="x"
@@ -466,7 +466,7 @@ export default function ProjectFlowShowcase() {
             <motion.article
               animate={animation}
               aria-hidden={!isVisible && !isActive}
-              className="absolute left-1/2 top-10 w-[360px] max-w-[72vw] -translate-x-1/2 rounded-lg border border-white/[0.08] bg-[#17172A]/96 p-4 backdrop-blur"
+              className="absolute left-1/2 top-8 w-[calc(100vw-40px)] max-w-[380px] -translate-x-1/2 rounded-lg border border-white/[0.08] bg-[#17172A]/96 p-4 backdrop-blur sm:top-10 sm:w-[360px]"
               data-active={isActive}
               initial={false}
               key={project.title}
